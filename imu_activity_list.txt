@@ -66,7 +66,7 @@ Bicep curl (mmFit)
 Shoulder press (mmFit)
 Deadlift (mmFit)
 
-(These categories are drawn from public IMU activity recognition datasets such as PAMAP2, UCI HAR, Opportunity, WISDM, Skoda, MHEALTH, USC-HAD, RealWorld, Daphnet, DSADS, HAPT, PPG-DaLiA, UTD-MHAD, OpenPack, mmFit, MotionSense, MobiAct, SHL, WHARF, etc.)
+(PAMAP2, UCI HAR, Opportunity, WISDM, Skoda, MHEALTH, USC-HAD, RealWorld, Daphnet, DSADS, HAPT, PPG-DaLiA, UTD-MHAD, OpenPack, mmFit, MotionSense, MobiAct, SHL, WHARF)
 
 
 
