@@ -1,0 +1,349 @@
+Head:
+1. nod (up/down)
+2. shake (side-to-side)
+3. tilt (ear toward shoulder)
+4. turn/rotate (left/right)
+5. flex/extend
+6. circular/circumduction
+7. lateral bend
+8. bob (small up/down)
+9. jerk (quick snap)
+10. roll (ear to ear)
+11. pivot (on neck)
+12. tilt-forward/backward
+13. tilt-left/right
+14. tuck/chin to chest
+15. look up/down
+16. gaze shift (smooth)
+17. head shake with deviation
+18. head nod with rotation
+19. head bob with tilt
+20. head roll with flexion
+21. quick glance left/right
+22. slow sweep rotation
+23. micro-adjustment (subtle)
+24. hold still (isometric)
+25. head retraction (pull back)
+26. head protrusion (push forward)
+27. pendulum swing
+28. head oscillation
+29. head circle expansion
+30. head circle contraction
+31. head pendulum back/forth
+32. head tremor
+33. head shake fast/slow
+34. head tilt with extension
+35. surprised raise
+36. relaxed drop
+37. chin rotation
+38. ear-to-shoulder roll
+39. head bobbing in rhythm
+40. head cresting motion
+41. head trough motion
+42. head windshield-wiper
+43. head fountain motion
+44. head spiral inward
+45. head spiral outward
+46. head fan motion
+47. head hop
+48. head tilt with gaze shift
+49. head shake with tilt
+50. head freeze (hold)
+
+
+Torso:
+1. bend forward (flexion)
+2. bend backward (extension)
+3. twist/rotate left/right
+4. lean/side-bend (lateral flexion)
+5. arch/collapse
+6. sway (undulating movement)
+7. vertical lift/lower (shrug-like)
+8. ribcage expansion/contraction
+9. abdominal bracing
+10. pelvis twist independent
+11. chest drop/puff
+12. shoulder shift forward/back
+13. upper/lower separation
+14. spinal roll segmental
+15. spinal wave (cat/cow)
+16. back arch hold
+17. back flatten hold
+18. torso lean spiral
+19. diagonal reach
+20. counter-rotation
+21. isometric hold
+22. slow drift left/right
+23. quick jerk rotation
+24. chest thrust
+25. side lean with twist
+26. arch with rotation
+27. pelvic lift into torso
+28. torso slump
+29. torso straighten
+30. torso elongation
+31. torso tilt forward/back
+32. torso tilt left/right
+33. torso corkscrew twist
+34. torso bounce
+35. torso pulsate
+36. torso shift forward/back
+37. torso shift lateral
+38. torso ripple
+39. torso undulate
+40. torso roll over axis
+41. torso crank motion
+42. torso wax/wane
+43. torso flip
+44. torso shiver
+45. torso brace with breath
+46. torso inhale/exhale focus
+47. torso spread/narrow
+48. torso coil/uncoil
+49. torso hook
+50. torso flick
+
+
+Pelvis/Hips:
+1. rotate (internal/external)
+2. tilt anterior/posterior
+3. shift left/right (lateral translation)
+4. flex/extend (hip hinge)
+5. abduct/adduct (leg away/ toward center)
+6. circumduction (circular motion)
+7. pelvic rocking (ant/post or side/side)
+8. pelvic drop/elevate one side
+9. hip hike
+10. hip sink
+11. pelvic thrust
+12. pelvic tuck
+13. pelvic arch
+14. leg swing front/back
+15. leg swing side/side
+16. hip rotation with flexion
+17. hip rotation with extension
+18. figure-eight motion
+19. hip circle with knee bent
+20. hip circle with knee straight
+21. static hold neutral
+22. dynamic shift forward
+23. dynamic shift backward
+24. cross-over step motion
+25. lateral lunge motion initiated from pelvis
+26. hip pop
+27. hip grind (small loop)
+28. pelvis isolation
+29. pelvis oscillation
+30. pelvis glide
+31. pelvis spiral outward
+32. pelvis spiral inward
+33. pelvis jerk
+34. pelvis bounce up/down
+35. pelvis float
+36. pelvis sink
+37. pelvis tilt with chest follow
+38. pelvis tilt with chest counter
+39. pelvis whip
+40. pelvis shimmy
+41. pelvis tilt with leg flex
+42. pelvis tilt with leg extend
+43. pelvis tense/release
+44. pelvis flick
+45. pelvis sway in figure eight
+46. pelvis oscillate cross-plane
+47. pelvis wave anterior to posterior
+48. pelvis wave lateral
+49. pelvic pump
+50. pelvis hold twist
+
+
+Left Arm (shoulder, elbow, wrist):
+1. shoulder flex/extend (raise/lower)
+2. shoulder abduction/adduction (out to side/in)
+3. shoulder rotation (internal/external)
+4. shoulder circumduction
+5. elbow flex/extend (bend/straighten)
+6. forearm pronation/supination
+7. wrist flex/extend
+8. wrist radial/ulnar deviation
+9. wrist circumduction
+10. shoulder elevation/depression
+11. shoulder retraction/protraction
+12. elbow supination with flexion
+13. elbow pronation with extension
+14. wrist twist grip
+15. finger spread/close (proximal)
+16. arm swing forward/back
+17. arm swing side
+18. arm shake
+19. arm circle large
+20. arm circle small
+21. isometric shoulder hold
+22. isometric elbow hold
+23. isometric wrist hold
+24. shoulder shrug
+25. elbow pivot (locked)
+26. wrist roll
+27. arm wave
+28. arm cross-body
+29. arm lift diagonal
+30. arm press outward
+31. shoulder roll
+32. shoulder pulse
+33. elbow flick
+34. wrist flick
+35. finger point
+36. finger cock
+37. hand flip
+38. hand shake
+39. wrist vibration
+40. arm flexion with twist
+41. arm extension with twist
+42. arm isolation (shoulder fixed)
+43. arm isolation (elbow fixed)
+44. arm isolation (wrist fixed)
+45. arm sweep overhead
+46. arm sweep low
+47. arm circle reverse
+48. arm nudge
+49. arm jab
+50. arm block
+
+
+Right Arm (same as left):
+1. shoulder flex/extend (raise/lower)
+2. shoulder abduction/adduction (out to side/in)
+3. shoulder rotation (internal/external)
+4. shoulder circumduction
+5. elbow flex/extend (bend/straighten)
+6. forearm pronation/supination
+7. wrist flex/extend
+8. wrist radial/ulnar deviation
+9. wrist circumduction
+10. shoulder elevation/depression
+11. shoulder retraction/protraction
+12. elbow supination with flexion
+13. elbow pronation with extension
+14. wrist twist grip
+15. finger spread/close (proximal)
+16. arm swing forward/back
+17. arm swing side
+18. arm shake
+19. arm circle large
+20. arm circle small
+21. isometric shoulder hold
+22. isometric elbow hold
+23. isometric wrist hold
+24. shoulder shrug
+25. elbow pivot (locked)
+26. wrist roll
+27. arm wave
+28. arm cross-body
+29. arm lift diagonal
+30. arm press outward
+31. shoulder roll
+32. shoulder pulse
+33. elbow flick
+34. wrist flick
+35. finger point
+36. finger cock
+37. hand flip
+38. hand shake
+39. wrist vibration
+40. arm flexion with twist
+41. arm extension with twist
+42. arm isolation (shoulder fixed)
+43. arm isolation (elbow fixed)
+44. arm isolation (wrist fixed)
+45. arm sweep overhead
+46. arm sweep low
+47. arm circle reverse
+48. arm nudge
+49. arm jab
+50. arm block
+
+
+Left Leg (hip, knee, ankle):
+1. hip flex/extend
+2. hip abduction/adduction
+3. hip rotation (internal/external)
+4. hip circumduction
+5. knee flex/extend
+6. knee rotation (when flexed)
+7. ankle dorsiflex/plantarflex
+8. ankle inversion/eversion
+9. ankle circumduction
+10. hip hike
+11. hip drop
+12. knee lift
+13. knee drop
+14. ankle roll
+15. ankle bounce
+16. leg swing forward/back
+17. leg swing side/side
+18. leg circle large
+19. leg circle small
+20. leg press outward
+21. leg cross-over
+22. leg kick
+23. leg tap
+24. leg hold isometric
+25. knee twist with foot grounded
+26. ankle twist with knee bent
+27. calf raise
+28. heel drop
+29. foot drag
+30. toe point/flex
+31. leg hop
+32. leg stomp
+33. leg curl
+34. leg extend with twist
+35. leg sweep
+36. leg pivot
+37. leg spin
+38. leg flick
+39. leg brush
+40. leg step-up/down
+41. leg stride
+42. leg bounce small
+43. leg bounce large
+44. leg clap with other leg
+45. leg cross-back
+46. leg triangle motion
+47. leg figure eight
+48. leg dribble
+49. leg isolation hip static
+50. leg isolation knee static
+
+
+Right Leg (same as left):
+1. hip flex/extend
+2. hip abduction/adduction
+3. hip rotation (internal/external)
+4. hip circumduction
+5. knee flex/extend
+6. knee rotation (when flexed)
+7. ankle dorsiflex/plantarflex
+8. ankle inversion/eversion
+9. ankle circumduction
+10. hip hike
+11. hip drop
+12. knee lift
+13. knee drop
+14. ankle roll
+15. ankle bounce
+16. leg swing forward/back
+17. leg swing side/side
+18. leg circle large
+19. leg circle small
+20. leg press outward
+21. leg cross-over
+22. leg kick
+23. leg tap
+24. leg hold isometric
+25. knee twist with foot grounded
+26. ankle twist with knee bent
+27. calf raise
+28. heel drop
+29. foot drag
+30. toe point/flex
