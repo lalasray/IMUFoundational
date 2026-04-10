@@ -84,18 +84,14 @@ Right Leg (10 primitives):
 
 PACE OPTIONS (frequency/Hz):
 - Static: no movement
-- Occasional: <1 Hz (infrequent)
 - Slow: 0.1–0.5 Hz
 - Medium: 0.5–1.5 Hz
 - Fast: 1.5–3 Hz
-- Vigorous: >3 Hz
 
 INTENSITY OPTIONS (amplitude/effort):
-- Very Low: minimal, barely perceptible motion
 - Low: small amplitude, gentle
 - Medium: moderate range, typical effort
 - High: large amplitude, forceful
-- Very High: maximum amplitude/effort
 
 Example: "Walking" = 
   Head: nod (medium pace, low intensity)

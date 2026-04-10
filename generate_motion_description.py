@@ -4,11 +4,9 @@ import re
 BASIC_MOTIONS_FILE = "basic_motions.txt"
 PACE_CATEGORIES = [
     "static",
-    "occasional",
     "slow",
     "medium",
-    "fast",
-    "very fast/vigorous",
+    "fast"
 ]
 
 
