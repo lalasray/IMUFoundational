@@ -1,103 +1,157 @@
-MINIMAL BASIC MOTIONS
-(Core primitives sufficient to describe all IMU activities + pace/intensity variations)
+ANATOMICAL MOTION PRIMITIVE SET
+(Six body-part groups with primitives, pace, and intensity)
 
-Head (8 primitives):
-1. nod (vertical flexion/extension)
-2. shake (horizontal rotation)
-3. tilt (lateral flexion)
-4. turn (axial rotation)
-5. circumduction (circular motion)
-6. gaze shift (eye/look direction)
-7. hold/static (no movement)
-8. oscillate (continuous back-and-forth)
+BODY PART GROUPS
+1. Head
+2. Torso
+3. Left Arm
+4. Right Arm
+5. Left Leg
+6. Right Leg
+
+PRINCIPLES
+1. Use anatomical motion primitives rather than activity words.
+2. Represent complex actions as combinations of primitives over time.
+3. Keep pace and intensity separate from the primitive itself.
+4. Use hold/static as the zero-motion state.
+
+Head (7 primitives):
+1. flexion (bend forward / look down)
+2. extension (bend backward / look up)
+3. lateral flexion left (tilt left)
+4. lateral flexion right (tilt right)
+5. axial rotation left (turn left)
+6. axial rotation right (turn right)
+7. hold/static (keep still)
 
 Torso (10 primitives):
-1. flex/extend (forward/backward bend)
-2. lateral flexion (side lean)
-3. rotation/twist (horizontal turn)
-4. circumduction (circular motion)
-5. arch/retract (spinal curve adjustment)
-6. expansion/contraction (ribcage)
-7. sway (undulating, wave-like)
-8. pulsate (rhythmic contraction)
-9. hold/isometric (static)
-10. shrug (shoulder lift)
+1. flexion (bend forward)
+2. extension (bend backward / arch)
+3. lateral flexion left (lean left)
+4. lateral flexion right (lean right)
+5. axial rotation left (twist left)
+6. axial rotation right (twist right)
+7. anterior tilt (tilt forward)
+8. posterior tilt (tilt backward)
+9. translation / shift (move body position without rotation)
+10. hold/static (keep still)
 
-Pelvis/Hips (9 primitives):
-1. flex/extend (hip hinge)
-2. abduction/adduction (leg out/in)
-3. rotation (internal/external)
-4. tilt (anterior/posterior)
-5. circumduction (circular hip motion)
-6. shift (lateral translation)
-7. rock (oscillating tilt)
-8. hold/static (neutral position)
-9. thrust/pop (quick dynamic burst)
+Left Arm (14 primitives):
+1. shoulder flexion (raise arm forward / overhead)
+2. shoulder extension (move arm backward)
+3. shoulder abduction (raise arm out to the side)
+4. shoulder adduction (bring arm back toward the body)
+5. shoulder internal rotation (rotate arm inward)
+6. shoulder external rotation (rotate arm outward)
+7. elbow flexion (bend elbow)
+8. elbow extension (straighten elbow)
+9. forearm pronation (turn palm down)
+10. forearm supination (turn palm up)
+11. wrist flexion (bend wrist forward)
+12. wrist extension (bend wrist backward)
+13. wrist deviation (tilt wrist side to side)
+14. hold/static (keep still)
 
-Left Arm (10 primitives):
-1. shoulder flex/extend (raise/lower)
-2. shoulder abduction/adduction (out/in)
-3. shoulder rotation (internal/external)
-4. elbow flex/extend (bend/straighten)
-5. forearm pronation/supination (rotate)
-6. wrist flex/extend
-7. wrist radial/ulnar deviation (side flex)
-8. circumduction (shoulder/wrist circles)
-9. swing (forward/back or side motion)
-10. hold/isometric (static)
+Right Arm (14 primitives):
+1. shoulder flexion (raise arm forward / overhead)
+2. shoulder extension (move arm backward)
+3. shoulder abduction (raise arm out to the side)
+4. shoulder adduction (bring arm back toward the body)
+5. shoulder internal rotation (rotate arm inward)
+6. shoulder external rotation (rotate arm outward)
+7. elbow flexion (bend elbow)
+8. elbow extension (straighten elbow)
+9. forearm pronation (turn palm down)
+10. forearm supination (turn palm up)
+11. wrist flexion (bend wrist forward)
+12. wrist extension (bend wrist backward)
+13. wrist deviation (tilt wrist side to side)
+14. hold/static (keep still)
 
-Right Arm (10 primitives):
-1. shoulder flex/extend (raise/lower)
-2. shoulder abduction/adduction (out/in)
-3. shoulder rotation (internal/external)
-4. elbow flex/extend (bend/straighten)
-5. forearm pronation/supination (rotate)
-6. wrist flex/extend
-7. wrist radial/ulnar deviation (side flex)
-8. circumduction (shoulder/wrist circles)
-9. swing (forward/back or side motion)
-10. hold/isometric (static)
+Left Leg (13 primitives):
+1. hip flexion (lift thigh / leg forward)
+2. hip extension (move leg backward)
+3. hip abduction (move leg out to the side)
+4. hip adduction (bring leg toward the midline)
+5. hip internal rotation (turn leg inward)
+6. hip external rotation (turn leg outward)
+7. knee flexion (bend knee)
+8. knee extension (straighten knee)
+9. ankle dorsiflexion (lift foot upward)
+10. ankle plantarflexion (point foot downward)
+11. ankle inversion (roll foot inward)
+12. ankle eversion (roll foot outward)
+13. hold/static (keep still)
 
-Left Leg (10 primitives):
-1. hip flex/extend
-2. hip abduction/adduction
-3. hip rotation (internal/external)
-4. knee flex/extend
-5. ankle dorsiflex/plantarflex
-6. ankle inversion/eversion
-7. circumduction (hip/ankle circles)
-8. swing (forward/back or side)
-9. hold/static (isometric)
-10. hop/bounce (ballistic impulse)
+Right Leg (13 primitives):
+1. hip flexion (lift thigh / leg forward)
+2. hip extension (move leg backward)
+3. hip abduction (move leg out to the side)
+4. hip adduction (bring leg toward the midline)
+5. hip internal rotation (turn leg inward)
+6. hip external rotation (turn leg outward)
+7. knee flexion (bend knee)
+8. knee extension (straighten knee)
+9. ankle dorsiflexion (lift foot upward)
+10. ankle plantarflexion (point foot downward)
+11. ankle inversion (roll foot inward)
+12. ankle eversion (roll foot outward)
+13. hold/static (keep still)
 
-Right Leg (10 primitives):
-1. hip flex/extend
-2. hip abduction/adduction
-3. hip rotation (internal/external)
-4. knee flex/extend
-5. ankle dorsiflex/plantarflex
-6. ankle inversion/eversion
-7. circumduction (hip/ankle circles)
-8. swing (forward/back or side)
-9. hold/static (isometric)
-10. hop/bounce (ballistic impulse)
-
-PACE OPTIONS (frequency/Hz):
+PACE OPTIONS:
 - Static: no movement
-- Slow: 0.1–0.5 Hz
-- Medium: 0.5–1.5 Hz
-- Fast: 1.5–3 Hz
+- Slow: slow or relaxed motion
+- Fast: quick or rapid motion
 
-INTENSITY OPTIONS (amplitude/effort):
-- Low: small amplitude, gentle
-- Medium: moderate range, typical effort
-- High: large amplitude, forceful
+INTENSITY OPTIONS:
+- Low: small amplitude, gentle effort
+- High: large amplitude, forceful effort
 
-Example: "Walking" = 
-  Head: nod (medium pace, low intensity)
-  Torso: sway (medium pace, medium intensity)
-  Pelvis: rock (medium pace, medium intensity)
-  Left Arm: swing (medium pace, medium intensity)
-  Right Arm: swing (medium pace, medium intensity)
-  Left Leg: flex/extend (medium pace, medium intensity)
-  Right Leg: flex/extend (medium pace, medium intensity)
+OPTIONAL TEMPORAL MODIFIERS
+- single
+- repeated
+- alternating
+- oscillatory
+- asymmetric
+- synchronized
+- sequential
+- abrupt
+- smooth
+
+COMPOSITE MOTION EXAMPLES
+Example: "Walking"
+- Head: flexion + extension (slow pace, low intensity)
+- Torso: axial rotation left + axial rotation right + lateral flexion left + lateral flexion right (slow pace, low intensity)
+- Left Arm: shoulder extension + shoulder flexion + elbow flexion + elbow extension (slow pace, low intensity)
+- Right Arm: shoulder extension + shoulder flexion + elbow flexion + elbow extension (slow pace, low intensity)
+- Left Leg: hip flexion + hip extension + knee flexion + knee extension + ankle plantarflexion + ankle dorsiflexion (slow pace, high intensity)
+- Right Leg: hip flexion + hip extension + knee flexion + knee extension + ankle plantarflexion + ankle dorsiflexion (slow pace, high intensity)
+
+Example: "Reaching overhead with left hand" - Variant 1
+- Head: hold/static
+- Torso: extension (slow pace, low intensity)
+- Left Arm: shoulder flexion + elbow extension + wrist extension (slow pace, high intensity)
+- Right Arm: hold/static
+- Left Leg: hold/static
+- Right Leg: hold/static
+
+Example: "Reaching overhead with left hand" - Variant 2
+- Head: hold/static
+- Torso: lateral flexion left (slow pace, low intensity)
+- Left Arm: shoulder abduction + elbow extension + wrist deviation (slow pace, high intensity)
+- Right Arm: hold/static
+- Left Leg: hold/static
+- Right Leg: hold/static
+
+Example: "Reaching overhead with left hand" - Variant 3
+- Head: hold/static
+- Torso: lateral flexion right (slow pace, low intensity)
+- Left Arm: shoulder flexion + elbow extension + wrist deviation (slow pace, high intensity)
+- Right Arm: hold/static
+- Left Leg: hold/static
+- Right Leg: hold/static
+
+NOTES
+- Circumduction is not a primitive; it is a coordinated sequence of flexion/extension and abduction/adduction, often with rotation.
+- Swing is not a primitive; it is a time-varying pattern built from one or more primitives.
+- Nod, shake, tilt, twist, rock, bounce, and thrust are composite patterns, not primitive motions.
