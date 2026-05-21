@@ -3862,7 +3862,7 @@ A person is turning the right leg outward at slow speed with low effort in a smo
 A person is turning the right leg outward at slow speed with high effort in a single pattern.
 A person is turning the right leg outward at slow speed with high effort in a repeated pattern.
 A person is turning the right leg outward at slow speed with high effort in an alternating pattern.
-A person is turning the right leg outward at slow speed with high effort in an oscillatory pattern.
+A person is turning the right leg outward at slow speed with high 
 A person is turning the right leg outward at slow speed with high effort in an asymmetric pattern.
 A person is turning the right leg outward at slow speed with high effort in a synchronized pattern.
 A person is turning the right leg outward at slow speed with high effort in a sequential pattern.
